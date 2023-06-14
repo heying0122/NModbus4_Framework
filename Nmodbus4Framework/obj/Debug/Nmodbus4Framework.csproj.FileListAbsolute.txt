@@ -1,0 +1,10 @@
+D:\Code\NModbus4_Framework\Nmodbus4Framework\bin\Debug\Nmodbus4Framework.exe.config
+D:\Code\NModbus4_Framework\Nmodbus4Framework\bin\Debug\Nmodbus4Framework.exe
+D:\Code\NModbus4_Framework\Nmodbus4Framework\bin\Debug\Nmodbus4Framework.pdb
+D:\Code\NModbus4_Framework\Nmodbus4Framework\bin\Debug\NModbus4.dll
+D:\Code\NModbus4_Framework\Nmodbus4Framework\bin\Debug\NModbus4.xml
+D:\Code\NModbus4_Framework\Nmodbus4Framework\obj\Debug\Nmodbus4Framework.csproj.AssemblyReference.cache
+D:\Code\NModbus4_Framework\Nmodbus4Framework\obj\Debug\Nmodbus4Framework.csproj.CoreCompileInputs.cache
+D:\Code\NModbus4_Framework\Nmodbus4Framework\obj\Debug\Nmodbus4Framework.csproj.CopyComplete
+D:\Code\NModbus4_Framework\Nmodbus4Framework\obj\Debug\Nmodbus4Framework.exe
+D:\Code\NModbus4_Framework\Nmodbus4Framework\obj\Debug\Nmodbus4Framework.pdb
